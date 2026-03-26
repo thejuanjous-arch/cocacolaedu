@@ -1,4 +1,9 @@
-     /* ===== RESET ===== */
+@font-face {
+     font-family: 'cocacola';
+     src: url(./assets/fonts/cocacola.ttf);
+}
+
+/* ===== RESET ===== */
 *{
 margin:0;
 padding:0;
@@ -331,4 +336,8 @@ font-size:32px;
 height:250px;
 }
 
+}
+
+.titulo-cocacola{
+     font-family: 'cocacola';
 }
